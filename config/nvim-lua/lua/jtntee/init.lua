@@ -1,0 +1,6 @@
+require('jtntee.options')
+require('jtntee.plugins')
+require('jtntee.colors')
+require('jtntee.keymaps')
+require('jtntee.nerdtree')
+--require('jtntee.telescope')
